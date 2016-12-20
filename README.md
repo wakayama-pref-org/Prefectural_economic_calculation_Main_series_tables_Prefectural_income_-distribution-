@@ -1,4 +1,4 @@
-# Prefectural_economic_calculation_Main_series_tables_Prefectural_income_-distribution-
+# prefectural_economic_calculation_main_series_tables_prefectural_income_-distribution-
 【和歌山県　県民経済計算です。】
 ◆県民経済計算とは
 県内経済活動の一年間の成果を生産・分配・支出の三面からとらえ、その規模や構造、所得の水準や循環などを明らかにし、和歌山県の経済力を総合的・計量的に把握することを目的とするものです。
